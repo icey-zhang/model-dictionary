@@ -12,3 +12,6 @@ The dictionary for us to conveniently record some codes
 （1）[_sync_params](https://blog.csdn.net/qq_33854260/article/details/129037203)
 （2）from pytorch_lightning.metrics import Metric修改成from torchmetrics import Metric，因为pytorch_lightning.metrics这个库被删了
 
+4.多模态融合的可信度分析Uncertainty-Aware Multi-View Representation Learning
+代码原址：[daunet](http://cic.tju.edu.cn/faculty/zhangchangqing/research.html)
+
