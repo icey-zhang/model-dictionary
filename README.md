@@ -24,3 +24,6 @@ The dictionary for us to conveniently record some codes
 
 代码原址：[daunet](http://cic.tju.edu.cn/faculty/zhangchangqing/research.html)
 
+5.生成高低频图像的代码HFC
+
+代码原址：[HFC](https://github.com/HaohanWang/HFC)
