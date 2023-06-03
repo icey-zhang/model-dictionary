@@ -5,9 +5,9 @@ The dictionary for us to conveniently record some codes
 
 2.用来在yolov5上画热图的代码grad-cam
 
-代码原址:[pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
+代码原址：[pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
 
-使用并且修改代码[EigenCAM%20for%20YOLO5.ipynb](https://github.com/jacobgil/pytorch-grad-cam/blob/master/tutorials/EigenCAM%20for%20YOLO5.ipynb)
+使用并且修改代码：[EigenCAM%20for%20YOLO5.ipynb](https://github.com/jacobgil/pytorch-grad-cam/blob/master/tutorials/EigenCAM%20for%20YOLO5.ipynb)
 
 
 3.多模态Multimodal Prompting with Missing Modalities for Visual Recognition
