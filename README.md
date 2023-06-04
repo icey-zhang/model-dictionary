@@ -36,3 +36,4 @@ The dictionary for us to conveniently record some codes
 
 数据集下载： [NYUD2](https://drive.google.com/file/d/1M-EvhVfQ0HXEpTrDcqVrNK6C8CHPP0Yo/view?usp=sharing)
 
+修改数据集路径即可
