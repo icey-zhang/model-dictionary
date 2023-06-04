@@ -16,6 +16,8 @@ The dictionary for us to conveniently record some codes
 
 需要下载的一个权重文件：[vilt_200k_mlm_itm.ckpt](https://github.com/dandelin/ViLT/releases/download/200k/vilt_200k_mlm_itm.ckpt)
 
+数据集：[Food101]
+
 一些bug修改：
 （1）[_sync_params](https://blog.csdn.net/qq_33854260/article/details/129037203)
 （2）from pytorch_lightning.metrics import Metric修改成from torchmetrics import Metric，因为pytorch_lightning.metrics这个库被删了
