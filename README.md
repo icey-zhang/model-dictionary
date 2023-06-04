@@ -29,3 +29,10 @@ The dictionary for us to conveniently record some codes
 5.生成高低频图像的代码HFC
 
 代码原址：[HFC](https://github.com/HaohanWang/HFC)
+
+6.多模态融合Trusted Multi-View Classification with Dynamic Eidential Fusion
+
+代码原址：[ETMC](https://github.com/hanmenghan/TMC)
+
+数据集下载： [NYUD2](https://drive.google.com/file/d/1M-EvhVfQ0HXEpTrDcqVrNK6C8CHPP0Yo/view?usp=sharing)
+
