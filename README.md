@@ -40,8 +40,8 @@ The dictionary for us to conveniently record some codes
 
 7.Bridging Cross-task Protocol Inconsistency for Distillation in Dense Object Detection
 
-代码原址：[BCKD]https://github.com/TinyTigerPan/BCKD
+代码原址：[BCKD](https://github.com/TinyTigerPan/BCKD)
 
-数据集下载： [coco]()
+数据集下载： [coco](https://blog.csdn.net/qq_44554428/article/details/122597358)
 
 安装环境、下载数据集、下载权重文件、运行测试
