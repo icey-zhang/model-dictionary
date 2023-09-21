@@ -37,3 +37,11 @@ The dictionary for us to conveniently record some codes
 数据集下载： [NYUD2](https://drive.google.com/file/d/1M-EvhVfQ0HXEpTrDcqVrNK6C8CHPP0Yo/view?usp=sharing)
 
 修改数据集路径即可
+
+7.Bridging Cross-task Protocol Inconsistency for Distillation in Dense Object Detection
+
+代码原址：[BCKD]https://github.com/TinyTigerPan/BCKD
+
+数据集下载： [coco]()
+
+安装环境、下载数据集、下载权重文件、运行测试
