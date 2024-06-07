@@ -45,3 +45,12 @@ The dictionary for us to conveniently record some codes
 数据集下载： [coco](https://blog.csdn.net/qq_44554428/article/details/122597358)
 
 安装环境、下载数据集、下载权重文件、运行测试
+
+8.QWen
+
+[【下载模型】](https://huggingface.co/Qwen/Qwen-VL/tree/main) 放到model路径下
+
+修改路径
+
+做目标检测任务
+
