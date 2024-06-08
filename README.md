@@ -71,4 +71,9 @@ sys.path.append('/home/zjq/YOLO-World')
 OSError: Incorrect path_or_model_id: '../pretrained_models/clip-vit-base-patch32-projection'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
 ```
 修改config文件里面
-change ../pretrained_models/clip-vit-base-patch32-projection into openai/clip-vit-base-patch32
+change ../pretrained_models/clip-vit-base-patch32-projection into openai/clip-vit-base-patch32 (不行)
+
+直接通过镜像下载权重 
+```bash
+git clone https://hf-mirror.com/openai/clip-vit-base-patch32
+```
