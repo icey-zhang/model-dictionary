@@ -46,7 +46,7 @@ The dictionary for us to conveniently record some codes
 
 安装环境、下载数据集、下载权重文件、运行测试
 
-8.QWen
+8.QWen_VL
 
 [【下载模型】](https://huggingface.co/Qwen/Qwen-VL/tree/main) 放到model路径下
 
