@@ -46,7 +46,7 @@ The dictionary for us to conveniently record some codes
 
 安装环境、下载数据集、下载权重文件、运行测试
 
-8.[QWen_VL](https://github.com/icey-zhang/model-dictionary/tree/main/Qwen)
+8.QWen_VL | [Code](https://github.com/icey-zhang/model-dictionary/tree/main/Qwen)
 
 [【下载模型】](https://huggingface.co/Qwen/Qwen-VL/tree/main) 放到model路径下
 
@@ -54,7 +54,7 @@ The dictionary for us to conveniently record some codes
 
 做目标检测任务
 
-9.miniGPT4
+9.miniGPT4 | [Code](https://github.com/icey-zhang/miniGPT4_guide)
 
 [【使用教程】](https://github.com/icey-zhang/miniGPT4_guide)
 
