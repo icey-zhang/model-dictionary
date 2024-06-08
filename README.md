@@ -54,3 +54,7 @@ The dictionary for us to conveniently record some codes
 
 做目标检测任务
 
+9.miniGPT4
+
+[【使用教程】](https://github.com/icey-zhang/miniGPT4_guide)
+
