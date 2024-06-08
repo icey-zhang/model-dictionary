@@ -67,3 +67,8 @@ You should set `PYTHONPATH` to make `sys.path` include the directory which conta
 import sys
 sys.path.append('/home/zjq/YOLO-World')
 ```
+```bash
+OSError: Incorrect path_or_model_id: '../pretrained_models/clip-vit-base-patch32-projection'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+```
+修改config文件里面
+change ../pretrained_models/clip-vit-base-patch32-projection into openai/clip-vit-base-patch32
