@@ -58,3 +58,12 @@ The dictionary for us to conveniently record some codes
 
 [【使用教程】](https://github.com/icey-zhang/miniGPT4_guide)
 
+10. YOLOWORD
+```bash
+You should set `PYTHONPATH` to make `sys.path` include the directory which contains your custom module
+```
+在simple_demo.py文件最开始添加project的路径
+```python
+import sys
+sys.path.append('/home/zjq/YOLO-World')
+```
