@@ -1,5 +1,9 @@
-# model-dictionary
-The dictionary for us to conveniently record some codes
+
+<div align="center">
+<h1> model-dictionary </h1>
+<h3> The dictionary for us to conveniently record some codes </h3>
+
+</div>
 
 ## 1.去噪声的可逆网络MPRNet
 
