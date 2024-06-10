@@ -2,10 +2,9 @@
 <div align="center">
 <h1> model-dictionary </h1>
 <h2> The dictionary for us to conveniently record some codes </h2>
-
 </div>
 
-### 1.去噪声的可逆网络MPRNet
+### **1.去噪声的可逆网络MPRNet**
 
 ### 2.用来在yolov5上画热图的代码grad-cam
 
