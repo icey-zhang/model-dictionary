@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1> model-dictionary </h1>
-<h3> The dictionary for us to conveniently record some codes </h3>
+<h2> The dictionary for us to conveniently record some codes </h2>
 
 </div>
 
