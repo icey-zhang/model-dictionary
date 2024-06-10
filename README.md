@@ -62,7 +62,7 @@
 [【使用教程】](https://github.com/icey-zhang/miniGPT4_guide)
 
 **10. YOLOWORD**
-#### 问题一
+##### 问题一
 ```bash
 You should set `PYTHONPATH` to make `sys.path` include the directory which contains your custom module
 ```
@@ -71,29 +71,29 @@ You should set `PYTHONPATH` to make `sys.path` include the directory which conta
 import sys
 sys.path.append('/home/zjq/YOLO-World')
 ```
-#### 问题二
+##### 问题二
 ```bash
 OSError: Incorrect path_or_model_id: '../pretrained_models/clip-vit-base-patch32-projection'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
 ```
-##### 1. 修改config文件里面
+- 1. 修改config文件里面
 change ../pretrained_models/clip-vit-base-patch32-projection into openai/clip-vit-base-patch32 (不行)
 
-##### 2. 直接通过镜像下载权重 (不行)
+- 2. 直接通过镜像下载权重 (不行)
 ```bash
 git clone https://hf-mirror.com/openai/clip-vit-base-patch32 
 ```
-##### 3. 直接下载放目标目录下
+- 3. 直接下载放目标目录下
 
-#### 问题三
+##### 问题三
 下载文件
 https://huggingface.co/GLIPModel/GLIP/blob/main/lvis_v1_minival_inserted_image_name.json
 
-#### 问题四
+##### 问题四
 创建txt文件,文件内容
 ```bash
 person
 bus
 ```
 
-#### 运行代码 image_demo.py
+##### 运行代码 image_demo.py
 
